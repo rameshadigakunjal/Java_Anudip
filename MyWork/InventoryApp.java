@@ -27,5 +27,7 @@ public class InventoryApp {
         Product smartphone = new Product(102, "smartphone", 800.00);
 
         System.out.println(laptop.getProductName() + " costs $" + laptop.getPrice());
+        System.out.println(smartphone.getProductName() + " costs $" + smartphone.getPrice());
+        
     }
 }
