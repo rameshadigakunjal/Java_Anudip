@@ -46,8 +46,6 @@ This repository helps you:
 - Gain confidence for **interviews, internships, and exams**  
 - Prepare for future **Spring Boot / Backend Development**  
 - Revise Java anytime with **clean, organized programs**  
-- Improve GitHub portfolio visibility  
-
 ---
 
 
@@ -100,3 +98,4 @@ javac filename.java
 java filename
 
  -->
+
