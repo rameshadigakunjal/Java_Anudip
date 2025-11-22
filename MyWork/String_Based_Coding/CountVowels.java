@@ -1,5 +1,5 @@
 package MyWork.String_Based_Coding;
-
+//3. Count Vowels and Consonants in a String
 public class CountVowels {
     public static void main(String[] args) {
         String str = "ProgrammingLanguage";
