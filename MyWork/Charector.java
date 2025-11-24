@@ -28,5 +28,10 @@ public class Charector {
 
         sc.close();
     }
+
+    public char getCharector() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getCharector'");
+    }
     
 }

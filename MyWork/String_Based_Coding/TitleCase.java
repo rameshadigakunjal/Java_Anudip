@@ -1,5 +1,5 @@
 package MyWork.String_Based_Coding;
-
+//10. Title Case a String
 public class TitleCase {
     public static void main(String[] args) {
         String str  = "title case must each letter should be capitlize!";
