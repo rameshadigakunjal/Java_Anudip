@@ -93,7 +93,7 @@ git add .
 git commit -m "Added all Java method case examples"
 git push origin main
 
-
+compile and run the file 
 javac filename.java
 java filename
 
