@@ -1,6 +1,6 @@
 package MyWork.String_Based_Coding;
 import java.util.*;
-
+//12. Most Frequent Character in a String
 public class MostFrequentChar {
     public static void main(String[] args) {
         String str = "sucessessfully";
