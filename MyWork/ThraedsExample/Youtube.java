@@ -12,9 +12,7 @@ class BufferingVideo extends Thread {
         for(int i = 1; i <= 5; i++) {
             System.out.println("Buffering video: " + i);
         }
-    }
-
-    
+    }  
 }
 public class Youtube {
     public static void main(String[] args) {
