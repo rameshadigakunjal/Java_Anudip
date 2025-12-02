@@ -22,3 +22,4 @@ public class SumEvenNumbers {
 		System.out.println("Sum of Even Numbers: "+sum);
 	}
 }
+	
